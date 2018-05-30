@@ -1,10 +1,13 @@
 .App {
   text-align: center;
+
 }
+
 
 .App-logo {
   animation: App-logo-spin infinite 03s linear;
   height: 30px;
+  text-align: right;
   
 }
 
@@ -27,3 +30,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.text-align-center{ text-align:center; }
+.margin-zero{ margin:0; }
+.overflow-hidden{ overflow:hidden; }
+.margin-bottom-1em{ margin-bottom:1em; }
+.m-r-1em{ margin-right:1em; }
